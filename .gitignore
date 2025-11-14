@@ -1,2 +1,2 @@
-#Exclude jetbrains conf
+#Exclude jetbrains conf, see if it works
 .idea
